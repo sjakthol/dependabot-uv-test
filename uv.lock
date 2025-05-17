@@ -39,7 +39,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "boto3", specifier = "<2.0.0" }]
+requires-dist = [{ name = "boto3" }]
 
 [[package]]
 name = "jmespath"
